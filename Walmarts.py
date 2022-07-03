@@ -118,7 +118,7 @@ rf_pred= rf.predict(x_train)
 print("Random Forest : " ,rf.score(x_test,y_test))
 
 '''
-OUTPUT
+OUTPUT 
 Decision Tree :  0.9690253210969264
 Random Forest :  0.9785753931205371
 
